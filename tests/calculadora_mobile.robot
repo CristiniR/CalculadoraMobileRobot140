@@ -92,3 +92,5 @@ Operações Calculadora
     Should Be Equal As Strings        ${resultado}    ${esperado}
     ${limpar} =    Set Variable       accessibility_id=clear
     Click Element    ${limpar}
+
+    
